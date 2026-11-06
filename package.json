@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^31.0.0"
+  }
+}
